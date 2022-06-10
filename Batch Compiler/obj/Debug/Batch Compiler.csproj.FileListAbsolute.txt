@@ -1,0 +1,10 @@
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\bin\Debug\Batch Compiler.exe.config
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\bin\Debug\Batch Compiler.exe
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\bin\Debug\Batch Compiler.pdb
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\obj\Debug\Batch Compiler.csproj.AssemblyReference.cache
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\obj\Debug\Batch_Compiler.batchcompiler.resources
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\obj\Debug\Batch_Compiler.Properties.Resources.resources
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\obj\Debug\Batch Compiler.csproj.GenerateResource.cache
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\obj\Debug\Batch Compiler.csproj.CoreCompileInputs.cache
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\obj\Debug\Batch Compiler.exe
+C:\Users\avtar\source\repos\Batch Compiler\Batch Compiler\obj\Debug\Batch Compiler.pdb
